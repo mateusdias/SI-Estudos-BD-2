@@ -47,7 +47,7 @@ Este cronograma está organizado por **blocos mensais**, alinhando **conteúdo t
 
 ### Conteúdos
 - Conceitos de bancos de dados orientados a grafos
-- Nós, arestas e propriedades
+- Nodos (nodes), arestas e propriedades
 - Casos de uso (redes sociais, recomendações, fraudes)
 - Introdução a bancos distribuídos
 
