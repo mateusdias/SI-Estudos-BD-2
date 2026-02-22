@@ -95,7 +95,7 @@ Cada uma das avaliações terá o valor de até 5 pontos no máximo. Somadas, po
 
 ## 🔄 Estratégia de Recuperação
 
-Caso o estudante não alcance a nota mínima de 5,0 (cinco) pontos, considerando a soma de AV1 e AV2, será concedida a oportunidade de realizar um mini-projeto, cujo tema será definido pelo professor.
+Caso o estudante não alcance a nota mínima de 5,0 (cinco) pontos, considerando a soma de AV1 e AV2, será concedida a oportunidade de realizar um mini-projeto, cujo tema será definido pelo professor em data oportuna.
 
 A nota do mini-projeto, substituirá a menor nota entre as avaliações AV1 e AV2. 
 
