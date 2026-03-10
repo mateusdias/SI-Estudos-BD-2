@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784480873808",
+    "project_id": "timescatalogo",
+    "storage_bucket": "timescatalogo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784480873808:android:c0288eb521cd0f25735055",
+        "android_client_info": {
+          "package_name": "com.example.soccer_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeRTz3NJK6UNnTVCRMlkdS2Xi2wBG9j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
